@@ -1,4 +1,4 @@
-##pasos de instalacion
+## pasos de instalacion
 
 ejecutar
 
@@ -11,4 +11,4 @@ debemos omitir estos archivos y carpeta
 
 node_modules
 .log
-.editorconfig 
+.editorconfig
