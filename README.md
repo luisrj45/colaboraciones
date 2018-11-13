@@ -12,3 +12,5 @@ debemos omitir estos archivos y carpeta
 node_modules
 .log
 .editorconfig
+
+prueba del fork actualizado
